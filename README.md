@@ -1,4 +1,6 @@
-1. Install IronSource using this link: 
+1. Install IronSource using this link: https://developers.is.com/ironsource-mobile/unity/unity-plugin/#step-1
+
+Use UPM to install package.
 
 2. Install External Dependency Manager.
 
