@@ -1,7 +1,7 @@
 {
-  "name": "com.mirrasdk.ironsource.api",
+  "name": "com.mirrasdk.levelplay.api",
   "version": "1.0.0",
-  "displayName": "IronSource API for MirraSDK5",
+  "displayName": "LevelPlay API for MirraSDK5",
   "unity": "2021.3",
   "documentationUrl": "",
   "changelogUrl": "",
