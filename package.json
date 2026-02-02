@@ -1,0 +1,12 @@
+{
+  "name": "com.mirrasdk.ironsource.api",
+  "version": "1.0.0",
+  "displayName": "IronSource API for MirraSDK5",
+  "unity": "2021.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "author": {
+    "name": "Roman Likhadievski",
+    "url": "https://github.com/romanlee17"
+  }
+}

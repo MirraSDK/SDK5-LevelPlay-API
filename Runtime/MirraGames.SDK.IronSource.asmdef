@@ -1,0 +1,22 @@
+{
+    "name": "MirraGames.SDK.IronSource",
+    "rootNamespace": "MirraGames.SDK.IronSource",
+    "references": [
+        "MirraGames.SDK.Common"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_ANDROID"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
