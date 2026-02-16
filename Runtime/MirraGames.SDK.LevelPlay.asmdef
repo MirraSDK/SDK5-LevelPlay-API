@@ -1,8 +1,9 @@
 {
-    "name": "MirraGames.SDK.IronSource",
-    "rootNamespace": "MirraGames.SDK.IronSource",
+    "name": "MirraGames.SDK.LevelPlay",
+    "rootNamespace": "MirraGames.SDK.LevelPlay",
     "references": [
-        "MirraGames.SDK.Common"
+        "MirraGames.SDK.Common",
+        "Unity.LevelPlay"
     ],
     "includePlatforms": [
         "Android",
