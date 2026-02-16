@@ -9,3 +9,7 @@ Use UPM to install package.
 ```
 https://github.com/MirraSDK/SDK5-LevelPlay-API.git
 ```
+
+4. Go to MirraSDK5 Toolkit, select configuration that you plan to build (e.g. Google Play), open Ads section, select LevelPlayAds for Ads provider.
+
+5. Enter App key and Ad unit ids.
